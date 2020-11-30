@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\bin\Debug\Practico1modica.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\bin\Debug\Practico1modica.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\bin\Debug\Practico1modica.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Practico1modica\Practico1modica\obj\Debug\Practico1modica.pdb
